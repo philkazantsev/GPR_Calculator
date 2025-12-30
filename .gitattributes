@@ -1,0 +1,2 @@
+gpr_ame2020_Matern32_731.pk1 filter=lfs diff=lfs merge=lfs -text
+*.pk1 filter=lfs diff=lfs merge=lfs -text
